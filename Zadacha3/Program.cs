@@ -3,7 +3,7 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 if (num == 0)
 {
-    Console.WriteLine("Чсило равно нулю ");
+    Console.WriteLine("Число равно нулю ");
 }
 
 if (num % 2 == 0)
