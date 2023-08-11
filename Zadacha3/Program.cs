@@ -6,7 +6,11 @@ if (num == 0)
     Console.WriteLine("Чсило равно нулю ");
 }
 
-if (num / 2) true;
+if (num % 2 == 0)
 {
-    Console.WriteLine("Число чётное");
+    Console.WriteLine("Число чётное ");
+}
+else
+{
+    Console.WriteLine("Число нечётное ");
 }
