@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\DZ1\\Zadacha1\\Zadacha1.csproj": {}
+    "C:\\DZ1\\Zadacha1\\Zadacha1.csproj": {}
   },
   "projects": {
-    "c:\\DZ1\\Zadacha1\\Zadacha1.csproj": {
+    "C:\\DZ1\\Zadacha1\\Zadacha1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\DZ1\\Zadacha1\\Zadacha1.csproj",
+        "projectUniqueName": "C:\\DZ1\\Zadacha1\\Zadacha1.csproj",
         "projectName": "Zadacha1",
-        "projectPath": "c:\\DZ1\\Zadacha1\\Zadacha1.csproj",
+        "projectPath": "C:\\DZ1\\Zadacha1\\Zadacha1.csproj",
         "packagesPath": "C:\\Users\\karpo\\.nuget\\packages\\",
-        "outputPath": "c:\\DZ1\\Zadacha1\\obj\\",
+        "outputPath": "C:\\DZ1\\Zadacha1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karpo\\AppData\\Roaming\\NuGet\\NuGet.Config"
